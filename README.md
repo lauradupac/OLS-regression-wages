@@ -76,7 +76,7 @@ The main limitations of the analysis are:
 
 | File | Description |
 |---|---|
-| README_applied.md | Project overview, setup instructions, methodology and key findings |
+| README.md | Project overview, setup instructions, methodology and key findings |
 | Applied_report.pdf | Full research report with literature review, methodology, results and discussion |
 | OLS_wage.ipynb | Code following the 3 OLS regressions and diagnostic tests |
 | Requirements_applied.txt | Required Python packages |
